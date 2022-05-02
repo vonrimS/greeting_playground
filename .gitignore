@@ -1,3 +1,11 @@
 .gitignore
-venv/
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles
+.idea/some_git_playground.iml
+__pycache__
 scratch.py
+hello.py
+venv/
